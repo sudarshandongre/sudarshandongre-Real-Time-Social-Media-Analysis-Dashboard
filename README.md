@@ -28,7 +28,7 @@ This web application is designed to provide real-time insights into social media
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Soham-Niungare/Social-Media-Analysis.git
+   git clone (https://github.com/sudarshandongre/sudarshandongre-Real-Time-Social-Media-Analysis-Dashboard)
    
 2. Navigate to the project directory:
 
